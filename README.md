@@ -6,7 +6,7 @@ A 2D game inspired by Gem Swap and Space Invaders, Galaxy features an UFO avatar
 
 The following shows some of the implementations in action
 
-Black hole | Flamethrower |
+Black hole | Explosion |
 ------------ | ------------- | 
 <img src="https://github.com/eutopi/galaxy/blob/master/Galaxy/galaxy1.png" alt="drawing" width="400"/> | <img src="https://github.com/eutopi/galaxy/blob/master/Galaxy/galaxy3.png" alt="drawing" width="400"/> 
 <img src="https://github.com/eutopi/galaxy/blob/master/Galaxy/galaxy2.png" alt="drawing" width="400"/> | <img src="https://github.com/eutopi/galaxy/blob/master/Galaxy/galaxy4.png" alt="drawing" width="400"/>
