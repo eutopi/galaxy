@@ -12,7 +12,7 @@ Black hole | Flamethrower |
 <img src="https://github.com/eutopi/galaxy/blob/master/Galaxy/galaxy2.png" alt="drawing" width="400"/> | <img src="https://github.com/eutopi/galaxy/blob/master/Galaxy/galaxy4.png" alt="drawing" width="400"/>
 
 ## Controls
-- `WASD` keys to move
+- `WASD` to move
 - `SPACEBAR` to shoot a projectile directly upwards
 - `B` to spawn a black hole
 - `Q` to instigate a violent quake
@@ -31,9 +31,13 @@ Black hole | Flamethrower |
 9. **Flamethrower** - fired towards the location of the mouse.
 10. **Black holes** - attract other objects according to the Law of Gravitation.
 
-## Note
-To render each texture properly, must hardcode the paths of each image file.
 
-## Frameworks
+## Libraries
 - OpenGL
 - GLUT
+
+## Running
+This project was created on and can be run on `Xcode`. Make sure the above libraries are installed properly and linked with the binaries. The relevant `stb_image.c` file is also included in the project.
+
+## Note
+To render each texture properly, must hardcode the paths of each image file.
