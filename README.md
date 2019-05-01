@@ -12,11 +12,11 @@ Black hole | Flamethrower |
 <img src="https://github.com/eutopi/galaxy/blob/master/Galaxy/galaxy2.png" alt="drawing" width="400"/> | <img src="https://github.com/eutopi/galaxy/blob/master/Galaxy/galaxy4.png" alt="drawing" width="400"/>
 
 ## Controls
-- [W][A][S][D] keys to move
-- [SPACEBAR] to shoot a projectile directly upwards
-- [B] to spawn a black hole
-- [Q] to instigate a violent quake
-- [HOLD MOUSE] to shoot constant stream of fireballs
+- `WASD` keys to move
+- `SPACEBAR` to shoot a projectile directly upwards
+- `B` to spawn a black hole
+- `Q` to instigate a violent quake
+- `HOLD MOUSE` to shoot constant stream of fireballs
 
 
 ## Features 
