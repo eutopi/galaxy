@@ -36,8 +36,5 @@ Black hole | Explosion |
 - OpenGL
 - GLUT
 
-## Running
-This project was created on and can be run on `Xcode`. Make sure the above libraries are installed properly and linked with the binaries. The relevant `stb_image.c` file is also included in the project.
-
 ## Note
 To render each texture properly, must hardcode the paths of each image file.
