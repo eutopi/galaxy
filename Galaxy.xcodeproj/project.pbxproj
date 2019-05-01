@@ -48,6 +48,10 @@
 		4C124F8A225BC7AC006CF84A /* rocket.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = rocket.png; sourceTree = "<group>"; };
 		4C124F8B225BE7B4006CF84A /* fish.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = fish.png; sourceTree = "<group>"; };
 		4C124F8C225CB591006CF84A /* blackhole.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = blackhole.png; sourceTree = "<group>"; };
+		4C87F2892279D53A000977D2 /* galaxy3.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = galaxy3.png; path = ../../Screenshots/galaxy3.png; sourceTree = "<group>"; };
+		4C87F28A2279D53A000977D2 /* galaxy2.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = galaxy2.png; path = ../../Screenshots/galaxy2.png; sourceTree = "<group>"; };
+		4C87F28B2279D53A000977D2 /* galaxy1.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = galaxy1.png; path = ../../Screenshots/galaxy1.png; sourceTree = "<group>"; };
+		4C87F28C2279D53A000977D2 /* galaxy4.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = galaxy4.png; path = ../../Screenshots/galaxy4.png; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -83,6 +87,10 @@
 		4C124F6C224E2BE2006CF84A /* Galaxy */ = {
 			isa = PBXGroup;
 			children = (
+				4C87F28B2279D53A000977D2 /* galaxy1.png */,
+				4C87F28A2279D53A000977D2 /* galaxy2.png */,
+				4C87F2892279D53A000977D2 /* galaxy3.png */,
+				4C87F28C2279D53A000977D2 /* galaxy4.png */,
 				4C124F8C225CB591006CF84A /* blackhole.png */,
 				4C124F8B225BE7B4006CF84A /* fish.png */,
 				4C124F8A225BC7AC006CF84A /* rocket.png */,
